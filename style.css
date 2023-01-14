@@ -1,0 +1,38 @@
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 400px;
+}
+
+div.gallery:hover {
+  border: 1px solid darkorange;
+  }
+
+div.gallery img {
+  width: 396px;
+  height: 396px;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+  color: darkorange;
+}
+
+
+
+body{
+  background-image: url("giphy (1).gif");
+  background-size: cover;
+}
+
+.text,h3{
+  color: #fff;
+}
+
+.card-text{
+  background-color: darkorange;
+  border: 8px solid orange;
+    border-left: 10px solid #DD0000;
+}
